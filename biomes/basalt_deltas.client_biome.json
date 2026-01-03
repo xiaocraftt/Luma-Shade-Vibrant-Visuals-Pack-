@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "basalt_deltas"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#2A1A18"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:nether_fog"
+      }
+    }
+  }
+}

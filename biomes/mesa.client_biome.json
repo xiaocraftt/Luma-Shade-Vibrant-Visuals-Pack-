@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mesa"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#D1A46F"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:mesa_fog"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "luma:mesa_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "luma:mesa_lighting"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "luma:desert_atmospheric"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#7A8F7A"
+      }
+    }
+  }
+}
+

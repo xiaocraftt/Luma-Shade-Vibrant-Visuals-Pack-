@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mega_taiga_hills"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#B7C8C0"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:taiga_fog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#5F8FA0"
+      }
+    }
+  }
+}
+

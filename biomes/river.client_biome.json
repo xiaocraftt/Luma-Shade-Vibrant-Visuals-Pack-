@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "river"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#C7DCEC"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:defaultfog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4FA6D9"
+      }
+    }
+  }
+}

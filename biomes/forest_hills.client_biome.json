@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "forest_hills"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#C3CEE8"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:defaultfog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#5FA6C8"
+      }
+    }
+  }
+}
+

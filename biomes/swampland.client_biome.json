@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "swampland"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#84a683"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "luma:swamp_fog"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "luma:swamp_atmospheric"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "luma:swamp_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "luma:swamp_water"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "luma:swamp_grading"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4c6559"
+      }
+    }
+  }
+}
+
