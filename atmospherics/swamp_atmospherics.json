@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:atmosphere_settings": {
+    "description": {
+      "identifier": "luma:swamp_atmospheric"
+    },
+
+    "sky_zenith_color": {
+      "0.0": [120, 145, 120],
+      "0.5": [135, 160, 135],
+      "1.0": [110, 140, 120]
+    },
+
+    "sky_horizon_color": {
+      "0.0": [95, 120, 100],
+      "0.5": [110, 135, 115],
+      "1.0": [90, 115, 100]
+    },
+
+    "rayleigh_strength": {
+      "0.0": 0.30,
+      "0.5": 0.38,
+      "1.0": 0.34
+    },
+
+    "sun_mie_strength": {
+      "0.0": 7.0,
+      "0.5": 9.0,
+      "1.0": 6.5
+    },
+
+    "moon_mie_strength": {
+      "0.0": 4.0,
+      "0.5": 5.2,
+      "1.0": 4.5
+    },
+
+    "sun_glare_shape": {
+      "0.0": 55,
+      "0.5": 45,
+      "1.0": 60
+    }
+  }
+}
+
