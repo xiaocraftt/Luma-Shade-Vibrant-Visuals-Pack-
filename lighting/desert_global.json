@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "luma:desert_lighting"
+    },
+    "ambient": {
+      "illuminance": 0.12,
+      "color": [255, 235, 200]
+    },
+    "sky": {
+      "intensity": 0.45
+    },
+    "emissive": {
+      "desaturation": 0.15
+    },
+    "sun_rays": {
+      "enabled": true,
+      "intensity": 1.35,
+      "scatter_strength": 0.42
+    }
+  }
+}

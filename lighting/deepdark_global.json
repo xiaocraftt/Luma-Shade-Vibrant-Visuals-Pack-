@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "luma:deep_dark_lighting"
+    },
+    "ambient": {
+      "illuminance": 0.020,
+      "color": [18, 28, 32]
+    },
+    "sky": {
+      "intensity": 0.06
+    },
+    "emissive": {
+      "desaturation": 0.05
+    },
+    "sun_rays": {
+      "enabled": false
+    }
+  }
+}

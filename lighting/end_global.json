@@ -1,0 +1,54 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "luma:end_lighting"
+    },
+
+    "directional_lights": {
+      "sun": {
+        "illuminance": {
+          "0.00": 28,
+          "0.50": 26,
+          "1.00": 28
+        },
+        "color": {
+          "0.00": [210, 205, 225],
+          "0.50": [205, 200, 220],
+          "1.00": [200, 195, 215]
+        }
+      },
+
+      "moon": {
+        "illuminance": {
+          "0.00": 0.20,
+          "1.00": 0.26
+        },
+        "color": {
+          "0.00": [180, 175, 200],
+          "1.00": [185, 180, 205]
+        }
+      }
+    },
+
+    "ambient": {
+      "illuminance": 0.050,
+      "color": [190, 185, 205]
+    },
+
+    "emissive": {
+      "desaturation": 0.30
+    },
+
+    "sky": {
+      "intensity": 0.20
+    },
+
+    "sun_rays": {
+      "enabled": true,
+      "color": [205, 200, 220],
+      "intensity": 0.40,
+      "scatter_strength": 0.28
+    }
+  }
+}
