@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "LumaShade is a soft cinematic bloom shader pack built for the new Vibrant Visuals rendering mode in Minecraft Bedrock.",
+    "name": "Luma Shade (Vibrant Visuals Pack)",
+    "uuid": "9f4e00f7-4f5b-46a2-8185-5dd1272ec365",
+    "version": [1, 5, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "§dLumaShade Core Module§r — §9Optimized for MCPE 1.21+§r",
+      "type": "resources",
+      "uuid": "2dbf3633-38c0-4008-ac9b-bc44b3265190",
+      "version": [1, 5, 0]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "subpacks": [
+    {
+      "folder_name": "1",
+      "name": "Vanilla Clouds",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "2",
+      "name": "Fancy Clouds",
+      "memory_tier": 2
+    }
+  ]
+}
+
+
